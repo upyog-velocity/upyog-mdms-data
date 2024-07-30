@@ -1,0 +1,16 @@
+{
+    "tenantId": "ch",
+    "moduleName": "FSM",
+    "Configuration": [
+        {
+            "name": "Allow Slum",
+            "code": "ALLOW_SLUM",
+            "active": false
+        },
+        {
+            "name": "Allow Additional Charge",
+            "code": "ALLOW_ADDITIONAL_CHARGE",
+            "active": false
+        }
+    ]
+}

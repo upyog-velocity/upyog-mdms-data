@@ -1,0 +1,18 @@
+{
+    "tenantId": "ch",
+    "moduleName": "TradeLicense",
+    "ReminderPeriods": [
+      {
+        "tenantId": "ch.Kumhari",
+        "reminderInterval": 691200000
+      },
+      {
+        "tenantId": "ch.cityb",
+        "reminderInterval": 12345
+      },
+      {
+        "tenantId": "ch.cityc",
+        "reminderInterval": 12345  
+      }
+    ]
+  }

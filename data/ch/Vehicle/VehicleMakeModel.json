@@ -1,0 +1,27 @@
+{
+    "tenantId": "ch",
+    "moduleName": "Vehicle",
+    "VehicleMakeModel": [
+        {
+            "code": "TRACTOR",
+            "name": "TRACTOR",
+            "active": true
+        },
+        {
+            "code": "TRACTOR.3000",
+            "name": "TRACTOR 3000L",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TRACTOR.3500",
+            "name": "TRACTOR 3500L",
+            "active": true,
+            "make": "TRACTOR",
+            "capacity": "3500",
+            "amount": "1000"
+        }
+    ]
+}

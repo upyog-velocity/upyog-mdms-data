@@ -1,0 +1,17 @@
+{
+    "tenantId": "ch",
+    "moduleName": "Workflow",
+    "BusinessServiceMasterConfig": [
+      {
+        "businessService": "NewTL",
+        "active": "true",
+        "isStatelevel": "true"
+      },
+      {
+        "businessService": "chR",
+        "active": "true",
+        "isStatelevel": "true"
+      }
+        
+    ]
+  }

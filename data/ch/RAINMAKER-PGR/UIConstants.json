@@ -1,0 +1,9 @@
+{
+ "tenantId": "ch",
+ "moduleName": "RAINMAKER-chR",
+ "UIConstants": [
+   {
+     "REOPENSLA": 432000000
+   }
+ ]
+}

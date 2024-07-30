@@ -1,0 +1,76 @@
+{
+  "tenantId": "ch",
+  "moduleName": "tenant",
+  "tenantInfo": [
+    {
+      "code": "ch.Kumhari",
+      "districtCode": "Kumhari",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": ["PN", "HN", "EN"]
+    },
+    {
+      "code": "ch.KumhariPanchayat",
+      "districtCode": "KumhariPanchayat",
+      "population": "156716",
+      "malePopulation": "82045",
+      "femalePopultion": "74671",
+      "workingPopulation": "37.2",
+      "literacyRate": "79.2",
+      "languagesSpoken": ["PN", "HN", "EN"]
+    },
+    {
+      "code": "ch.Raipur",
+      "districtCode": "Raipur",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "ch.NagaonOne",
+      "districtCode": "NagaonOne",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "ch.GoalparaOne",
+      "districtCode": "GoalparaOne",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "ch.Bundu",
+      "districtCode": "Bundu",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    },
+    {
+      "code": "ch.Giridih",
+      "districtCode": "Giridih",
+      "population": "116449",
+      "malePopulation": "62554",
+      "femalePopultion": "53895",
+      "workingPopulation": "35.01",
+      "literacyRate": "69.46",
+      "languagesSpoken": ["PN", "GR", "HN"]
+    }
+  ]
+}

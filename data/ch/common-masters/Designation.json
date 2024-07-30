@@ -1,0 +1,24 @@
+{
+  "tenantId": "ch",
+  "moduleName": "common-masters",
+  "Designation": [
+    {
+      "code": "DESIG_15",
+      "name": "Chief Sanitary Inspector",
+      "description": "Mechanical Oversear",
+      "active": true
+    },
+    {
+      "code": "DESIG_16",
+      "name": "Sainitary Inspector",
+      "description": "Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_17",
+      "name": "Sainitary Supervisor",
+      "description": "Accountant",
+      "active": true
+    }
+  ]
+}

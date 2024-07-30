@@ -1,0 +1,106 @@
+{
+  "tenantId": "ch",
+  "moduleName": "ACCESSCONTROL-ROLES",
+  "roles": [
+    {
+      "code": "CITIZEN",
+      "name": "Citizen",
+      "description": "Citizen who can raise complaint"
+    },
+    {
+      "code": "EMPLOYEE",
+      "name": "Employee",
+      "description": "Default role for all employees"
+    },
+    {
+      "code": "SUPERUSER",
+      "name": "Super User",
+      "description": "System Administrator. Can change all master data and has access to all the system screens."
+    },
+    {
+      "code": "PTADMIN",
+      "name": "ULB Administrator",
+      "description": "Admin role that as access over an ulb"
+    },
+    {
+      "code": "STADMIN",
+      "name": "State Administrator",
+      "description": "Admin role that as access over a state"
+    },
+    {
+      "code": "ULB_OPERATOR",
+      "name": "ULB Operator",
+      "description": "ULB Operator"
+    },
+    {
+      "code": "EMPLOYEE_ADMIN",
+      "name": "EMPLOYEE ADMIN",
+      "description": "EMPLOYEE ADMIN"
+    }, 
+    {
+      "code": "HRMS_ADMIN",
+      "name": "HRMS ADMIN",
+      "description": "HRMS Administrator which can create new employees"
+    },
+    {
+      "code": "HRMS_ADMIN",
+      "name": "HRMS Admin",
+      "description": "HRMS Admin"
+    },
+    {
+      "code": "FSM_CREATOR_EMP",
+      "name": "FSM Employee Application Creator",
+      "description": "FSM Employee Application Creator"
+    },
+    {
+      "code": "FSM_EDITOR_EMP",
+      "name": "FSM Employee Application Editor",
+      "description": "FSM Employee Application Editor"
+    },
+    {
+      "code": "FSM_VIEW_EMP",
+      "name": "FSM Employee Application Viewer",
+      "description": "FSM Employee Application Viewer"
+    },
+    {
+      "code": "FSM_REPORT_VIEWER",
+      "name": "FSM Employee Report Viewer",
+      "description": "FSM Employee Report Viewer"
+    },
+    {
+      "code": "FSM_DASHBOARD_VIEWER",
+      "name": "FSM Employee Dashboard Viewer",
+      "description": "FSM Employee Dashboard Viewer"
+    },
+    {
+      "code": "FSM_ADMIN",
+      "name": "FSM Administrator",
+      "description": "FSM Administrator"
+    },
+    {
+      "code": "FSM_DSO",
+      "name": "FSM Desluding Operator",
+      "description": "FSM Desluding Operator"
+    },
+    {
+      "code": "FSM_DRIVER",
+      "name": "FSM Driver",
+      "description": "FSM Driver"
+    },
+    {
+      "code": "FSM_EMP_FSTPO",
+      "name": "FSM FSTP Opperator",
+      "description": "FSM FSTP Opperator"
+    },
+    {
+      "code": "FSM_COLLECTOR",
+      "name": "FSM Payment Collector",
+      "description": "FSM  Payment Collector"
+    },
+    {
+      "code": "SYSTEM",
+      "name": "System user",
+      "description": "System user role"
+    }
+  ]
+}

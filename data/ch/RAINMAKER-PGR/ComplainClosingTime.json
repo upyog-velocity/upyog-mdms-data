@@ -1,0 +1,9 @@
+{
+    "tenantId": "ch",
+    "moduleName": "RAINMAKER-chR",
+    "ComplainClosingTime": [
+      {
+        "ComplainMaxIdleTime": 3600000
+      }
+    ]
+   }
