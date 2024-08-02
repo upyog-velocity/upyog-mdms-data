@@ -1,0 +1,12 @@
+{
+  "tenantId": "as",
+  "moduleName": "common-masters",
+  "Department": [
+   
+    {
+      "name": "Health & Sanitation",
+      "code": "DEPT_3",
+      "active": true
+    }
+  ]
+}

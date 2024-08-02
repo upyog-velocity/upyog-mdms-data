@@ -1,0 +1,39 @@
+{
+    "tenantId": "as",
+    "moduleName": "FSM",
+    "Config": [
+        {
+            "code":"noOfTrips",
+            "override":true,
+            "default":1,
+            "active":true
+        },
+        {
+            "code":"additionalDetails.tripAmount",
+            "override":false,
+            "active":true
+        },
+        {
+            "code":"slumName",
+            "override":true,
+            "active":false
+        },
+        {
+            "code":"ALLOW_MODIFY",
+            "WFState":"CREATED",
+            "override":[
+                "propertyUsage",
+                "vehicleType",
+                "sanitationtype",
+                "address.city",
+                "address.locality",
+                "address.street",
+                "address.pincode",
+                "address.doorNo",
+                "address.landmark",
+                "pitDetail"
+            ],
+            "active":true
+        }
+    ]
+}

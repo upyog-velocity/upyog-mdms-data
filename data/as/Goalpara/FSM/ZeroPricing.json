@@ -1,0 +1,9 @@
+{
+    "tenantId": "as.Goalpara",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

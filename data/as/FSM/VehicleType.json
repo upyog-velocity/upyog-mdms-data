@@ -1,0 +1,28 @@
+{
+    "tenantId": "as",
+    "moduleName": "FSM",
+    "VehicleType": [
+        {
+            "code": "MAHINDRA.BOLERO_PICKUP",
+            "name": "Bolero Pickup",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "5000 Ltrs",
+            "amount": "500"
+        },
+        {
+            "code": "TATA.LPT709/34",
+            "name": "TATA LPT709/34",
+            "active": true,
+            "capacity": "3000 Ltrs",
+            "amount": "200"
+        },
+        {
+            "code": "TATA.407",
+            "name": "TATA 407",
+            "active": true,
+            "capacity": "3500 Ltrs",
+            "amount": "100"
+        }
+    ]
+}

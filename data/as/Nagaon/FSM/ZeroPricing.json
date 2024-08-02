@@ -1,0 +1,9 @@
+{
+    "tenantId": "as.Nagaon",
+    "moduleName": "FSM",
+    "zeroPricing": [
+        {
+            "zeroPricingStatus": true
+        }
+    ]
+}

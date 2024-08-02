@@ -1,0 +1,800 @@
+{
+  "tenantId": "as",
+  "moduleName": "tenant",
+  "citymodule": [
+    {
+      "module": "PGR",
+      "code": "PGR",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "PT",
+      "code": "PT",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "QuickPayLinks",
+      "code": "QuickPayLinks",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+   {
+      "module": "Finance",
+      "code": "Finance",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "TL",
+      "code": "TL",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "FireNoc",
+      "code": "FireNoc",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "PGR.WHATSAPP",
+      "code": "PGR.WHATSAPP",
+      "active": false,
+      "order":4,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "OBPS",
+      "code": "OBPS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "FSM",
+      "code": "FSM",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "Payment",
+      "code": "Payment",
+      "active": true,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "Receipts",
+      "code": "Receipts",
+      "active": true,
+      "order":3,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "NOC",
+      "code": "NOC",
+      "active": false,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "DSS",
+      "code": "DSS",
+      "active": true,
+      "order":6,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "Engagement",
+      "code": "Engagement",
+      "active": false,
+      "order":3,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "MCollect",
+      "code": "MCollect",
+      "active": false,
+      "order":1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "HRMS",
+      "code": "HRMS",
+      "active": true,
+      "order":2,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "CommonPT",
+      "code": "CommonPT",
+      "active": false,
+      "order":3,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "NDSS",
+      "code": "NDSS",
+      "active": false,
+      "order":5,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "WS",
+      "code": "WS",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/WS.png",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "SW",
+      "code": "SW",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "BillAmendment",
+      "code": "BillAmendment",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "Bills",
+      "code": "Bills",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
+      "active": false,
+      "order": 3,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "Birth",
+      "code": "Birth",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    },
+    {
+      "module": "Death",
+      "code": "Death",
+      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
+      "active": false,
+      "order": 1,
+      "tenants": [
+        {
+          "code": "as.Kumhari"
+        },
+        {
+          "code": "as.KumhariPanchayat"
+        },
+        {
+          "code": "as.Raipur"
+        },
+        {
+          "code": "as.Nagaon"
+        },
+        {
+          "code": "as.Goalpara"
+        },
+        {
+          "code": "as.Bundu"
+        },
+        {
+          "code": "as.Giridih"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+    "tenantId": "as",
+    "moduleName": "FSM",
+    "FSTPPlantInfo": [
+        {
+            "PlantCode": "CTA001",
+            "PlantName": "CityA FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "CityA",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.citya,ch.cityb"
+        },
+        {
+            "PlantCode": "CTC002",
+            "PlantName": "CityC SeTPP",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "CityC",
+            "PlusCode": "MPFQ+V2 Sahibzada Ajit Singh Nagar, Punjab",
+            "PlantOperationalTimings": "10.00am-06.00pm",
+            "PlantOperationalCapacityKLD": "100",
+            "ULBS": "ch.cityc,ch.cityd,ch.citye"
+        },
+        {
+            "PlantCode": "CTA003",
+            "PlantName": "Kumhari FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Kumhari",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.Kumhari"
+        },
+        {
+            "PlantCode": "CTA004",
+            "PlantName": "Kumhari FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "KumhariPanchayat",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.KumhariPanchayat"
+        },
+        {
+            "PlantCode": "CTA005",
+            "PlantName": "Raipur FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Raipur",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.Raipur"
+        },
+        {
+            "PlantCode": "CTA006",
+            "PlantName": "Nagaon FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Nagaon",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.NagaonOne"
+        },
+        {
+            "PlantCode": "CTA007",
+            "PlantName": "Goalpara FSTP Panchayat",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Goalpara",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.GoalparaOne"
+        },
+        {
+            "PlantCode": "CTA008",
+            "PlantName": "Bundu FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Bundu",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.Bundu"
+        },
+        {
+            "PlantCode": "CTA009",
+            "PlantName": "Giridih FSTP",
+            "active": true,
+            "PlantType": "FSTP",
+            "PlantLocation": "Giridih",
+            "PlusCode": "JQ2R+7G Khapar Kheri, Punjab",
+            "PlantOperationalTimings": "10.00am-08.00pm",
+            "PlantOperationalCapacityKLD": "50",
+            "ULBS": "ch.Giridih"
+        }        
+    ]
+}
