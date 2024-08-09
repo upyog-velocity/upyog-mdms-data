@@ -12,7 +12,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "propertyIdEnabled": false,
+      "propertyIdEnabled": true,
       "emailId": "goalpara@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
@@ -46,7 +46,7 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "propertyIdEnabled": false,
+      "propertyIdEnabled": true,
       "emailId": "nagaon@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
