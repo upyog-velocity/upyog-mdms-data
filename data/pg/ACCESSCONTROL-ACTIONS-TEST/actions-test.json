@@ -15006,7 +15006,7 @@
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.Desludging Service",
-      "navigationURL": "/digit-ui/employee/dss/dashboard/fsm-ulb",
+      "navigationURL": "/digit-ui/employee/fsm/dashboard/fsm-ulb",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     }
