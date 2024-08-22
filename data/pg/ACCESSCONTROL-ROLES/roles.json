@@ -92,6 +92,11 @@
       "name": "FSM FSTP Opperator",
       "description": "FSM FSTP Opperator"
     },
+     {
+      "code": "FSM_STATELEVEL_DASHBOARD_VIEWER",
+      "name": "FSM State Level Dashboard Viewer",
+      "description": "FSM State Level Dashboard Viewer"
+    },
     {
       "code": "FSM_COLLECTOR",
       "name": "FSM Payment Collector",
