@@ -7,8 +7,7 @@
         "code": "REVENUE",
         "name": "REVENUE"
       },
-      "boundary":
-      {
+      "boundary": {
         "id": 1,
         "boundaryNum": 1,
         "name": "Bundu",
@@ -92,108 +91,73 @@
                 "pincode": [835204],
                 "area": "Area1",
                 "children": []
-              },
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": 1,
+        "boundaryNum": 1,
+        "name": "Bundu",
+        "localname": "Bundu",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "pg.Bundu",
+        "children": [
+          {
+            "id": "1c5dbabd-e04a-44e1-ac27-1fea19fac28f",
+            "boundaryNum": 1,
+            "name": "ZONE_WEST",
+            "localname": "ZONE_WEST",
+            "longitude": null,
+            "latitude": null,
+            "label": "Zone",
+            "code": "JZN1",
+            "children": [
               {
-                "id": "c1b4fcad-b46f-4629-a041-728608551868",
+                "id": "6e286d0a-d141-49b2-8d3e-35cb7251fdee",
                 "boundaryNum": 1,
-                "name": "Ward 6",
-                "localname": "Ward 6",
+                "name": "WARD 1",
+                "localname": "WARD 1",
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "code": "Ward 6",
+                "code": "WARD 1",
                 "pincode": [835204],
                 "area": "Area1",
                 "children": []
               },
               {
-                "id": "6395f5bd-eb33-4d0c-a9ef-fb08a0a73096",
+                "id": "62679cab-680f-43ab-85ca-1ab89a91d3a4",
                 "boundaryNum": 1,
-                "name": "Ward 7",
-                "localname": "Ward 7",
+                "name": "Ward 2",
+                "localname": "Ward 2",
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
-                "code": "Ward 7",
+                "code": "Ward 2",
                 "pincode": [835204],
                 "area": "Area1",
                 "children": []
               },
               {
-                "id": "ce5fc94c-a0eb-46d2-9760-935b3432dc69",
+                "id": "70c48267-09f4-44e5-8a09-dda5d5c83a99",
                 "boundaryNum": 1,
-                "name": "Ward 8",
-                "localname": "Ward 8",
+                "name": "Ward 3",
+                "localname": "Ward 3",
                 "longitude": null,
                 "latitude": null,
                 "label": "Locality",
+                "code": "Ward 3",
                 "pincode": [835204],
-                "code": "Ward 8",
-                "area": "Area1",
-                "children": []
-              },
-              {
-                "id": "47931756-40b5-458n-bd7b-01da5316f2db",
-                "boundaryNum": 1,
-                "name": "Ward 9",
-                "localname": "Ward 9",
-                "longitude": null,
-                "latitude": null,
-                "label": "Locality",
-                "pincode": [835204],
-                "code": "Ward 9",
-                "area": "Area1",
-                "children": []
-              },
-              {
-                "id": "47931756-40b5-458m-bd7b-01da5316f2db",
-                "boundaryNum": 1,
-                "name": "Ward 10",
-                "localname": "Ward 10",
-                "longitude": null,
-                "latitude": null,
-                "label": "Locality",
-                "pincode": [835204],
-                "code": "Ward 10",
-                "area": "Area1",
-                "children": []
-              },
-              {
-                "id": "47931756-40b5-458l-bd7b-01da5316f2db",
-                "boundaryNum": 1,
-                "name": "Ward 11",
-                "localname": "Ward 11",
-                "longitude": null,
-                "latitude": null,
-                "label": "Locality",
-                "pincode": [835204],
-                "code": "Ward 11",
-                "area": "Area1",
-                "children": []
-              },
-              {
-                "id": "47931756-40b5-458k-bd7b-01da5316f2db",
-                "boundaryNum": 1,
-                "name": "Ward 12",
-                "localname": "Ward 12",
-                "longitude": null,
-                "latitude": null,
-                "label": "Locality",
-                "pincode": [835204],
-                "code": "Ward 12",
-                "area": "Area1",
-                "children": []
-              },
-              {
-                "id": "47931756-40b5-458j-bd7b-01da5316f2db",
-                "boundaryNum": 1,
-                "name": "Ward 13",
-                "localname": "Ward 13",
-                "longitude": null,
-                "latitude": null,
-                "label": "Locality",
-                "pincode": [835204],
-                "code": "Ward 13",
                 "area": "Area1",
                 "children": []
               }
